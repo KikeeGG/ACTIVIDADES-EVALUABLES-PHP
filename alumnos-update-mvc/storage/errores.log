@@ -1,0 +1,7 @@
+2026-02-18 12:45:50 | LISTAR | SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | C:\xampp\htdocs\work\alumnos-update-mvc\app\Modelos\RepositorioAlumnos.php | 13
+2026-02-18 12:51:19 | LISTAR | SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | C:\xampp\htdocs\work\alumnos-update-mvc\app\Modelos\RepositorioAlumnos.php | 13
+2026-02-18 12:52:35 | LISTAR | SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | C:\xampp\htdocs\work\alumnos-update-mvc\app\Modelos\RepositorioAlumnos.php | 13
+2026-02-18 12:52:36 | LISTAR | SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | C:\xampp\htdocs\work\alumnos-update-mvc\app\Modelos\RepositorioAlumnos.php | 13
+2026-02-18 12:54:08 | LISTAR | SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | C:\xampp\htdocs\work\alumnos-update-mvc\app\Modelos\RepositorioAlumnos.php | 13
+2026-02-18 12:54:09 | LISTAR | SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | C:\xampp\htdocs\work\alumnos-update-mvc\app\Modelos\RepositorioAlumnos.php | 13
+2026-02-18 13:41:40 | ACTUALIZAR | El nombre debe tener al menos 2 caracteres. | C:\xampp\htdocs\work\alumnos-update-mvc\app\Controladores\ControladorAlumnos.php | 80
